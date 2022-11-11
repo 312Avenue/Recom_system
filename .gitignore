@@ -180,3 +180,4 @@ pip-selfcheck.json
 .env
 /media
 /migrations
+docker-compose.yml
